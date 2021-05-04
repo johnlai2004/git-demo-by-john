@@ -36,3 +36,4 @@ git remote add origin <https url to your repository>
 git push origin <branchname>  # push all the changes in your local repo to the remote repo, master is the default
 
 
+git pull origin master 
