@@ -17,3 +17,22 @@ dir # show directory
 # git commands
 git init # initialize an empty repository
 git status # tell you status of all files
+git add <filename or a period>
+git reset <file name or a period>  # opposite of git add if you accidentally added somethign
+git commit -m "igive me a message" --> save to local repo everything that's been added
+
+	# modified - a file has been modified
+	# deleted - a file deleted
+	# new file -
+	# added vs. not added - 
+1. add ---  tell git it is your intention to add it to a repository
+2. commit -- save to your local repository
+
+	
+git log # history of what you committed
+git log --name-only # include what files were editted
+
+
+	
+
+aosijfoij
