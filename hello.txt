@@ -39,3 +39,7 @@ git push origin <branchname>  # push all the changes in your local repo to the r
 git pull origin master 
 
 git checkout -b <new branch name>  # make a branch for your current local repo branch
+
+git branch -a # lists all branches
+git fetch -a # gets everything
+git checkout <branchname> # go to a new branch
