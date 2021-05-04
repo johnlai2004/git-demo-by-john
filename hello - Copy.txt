@@ -1,0 +1,19 @@
+local vs. remote
+
+commit
+
+push pull
+
+
+branches
+
+*conflicts
+
+# basic windows commands
+cd # means change
+dir # show directory
+
+
+# git commands
+git init # initialize an empty repository
+git status # tell you status of all files
