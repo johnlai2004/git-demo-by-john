@@ -43,3 +43,46 @@ git checkout -b <new branch name>  # make a branch for your current local repo b
 git branch -a # lists all branches
 git fetch -a # gets everything
 git checkout <branchname> # go to a new branch
+
+
+
+
+
+-----------------
+
+git init
+git remote add origin ___
+
+git pull origin ___
+git push origin ___
+
+git add .
+git commit -m ""
+
+git status
+
+
+--- 
+create a local repository (15 to 30 minutes)
+	- practice modifying some files
+	- git add
+	- git commit
+	- check yoru status
+	- check your logs
+	
+	
+	
+create git hub repository (15 to 30 minutes)
+	- push/pull from the master branch
+	
+	
+git checkout -b  <branchname> (15 to min 60 min)
+
+	- push / pull to this branch
+	- pay attention
+		- local commit vs. remote push
+		- ***what happens if you have uncommitted changes on branch1, and you switch to branch2
+
+
+
+---- merging --
