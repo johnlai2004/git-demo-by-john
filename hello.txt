@@ -32,7 +32,7 @@ git commit -m "igive me a message" --> save to local repo everything that's been
 git log # history of what you committed
 git log --name-only # include what files were editted
 
+git remote add origin <https url to your repository>
+git push origin <branchname>  # push all the changes in your local repo to the remote repo, master is the default
 
-	
 
-aosijfoij
